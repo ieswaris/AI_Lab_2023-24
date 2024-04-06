@@ -96,5 +96,7 @@ Step 7: Stop the program.<br>
 
 
 
+
+
 ### Result:
 Thus the plan was found for the initial and goal state of given problem.
